@@ -7,7 +7,7 @@
 ## 2.Download Test API and Run Server
 ### 2.1 Download api.py File
 ### 2.2 Run Uvicorn Server With:
-### "uvicorn api_name:app --host 0.0.0.0 --port 8000"
+### "uvicorn api_name_here:app --host 0.0.0.0 --port 8000"
 ### Python Will Need To Bypass The Firewall -- If Prompted Select Allow
 ### --------------------------------------------------------------------------
 ## 3.Flash .ino file to ESP32 CAM
