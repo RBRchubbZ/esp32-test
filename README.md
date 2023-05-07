@@ -11,4 +11,5 @@
 ### Python Will Need To Bypass The Firewall -- If Prompted Select Allow
 ### --------------------------------------------------------------------------
 ## 3.Flash .ino file to ESP32 CAM
-
+### --------------------------------------------------------------------------
+### ESP32 CAM should now make a GET and POST request independently
